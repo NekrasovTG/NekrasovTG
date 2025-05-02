@@ -2,13 +2,7 @@
 
 ## 💻 Веб-разработчик
 
-const developer = {
-    имя: 'Nekrasov',
-    специализация: 'Веб-разработчик',
-    технологии: ['JavaScript', 'PHP', 'HTML', 'CSS'],
-    инструменты: ['React', 'Node.js', 'Git', 'Docker'],
-    страсть: 'Создание элегантных веб-решений'
-}
+
 ### 🔧 Технологии и инструменты
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,7 +17,6 @@ const developer = {
 ### 🚀 Мои компетенции
 
 - 🎯 Фронтенд разработка
-- 💾 Бэкенд разработка
 - 🛠 Интеграция API
 - 📱 Адаптивный дизайн
 - 🔧 Оптимизация кода
@@ -31,13 +24,13 @@ const developer = {
 
 ### 📈 Статистика GitHub
 
-![GitHub статистика](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dracula)
+![GitHub статистика](https://github-readme-stats.vercel.app/api?username=NekrasovTG&show_icons=true&theme=dracula)
 
 ### 🌐 Связаться со мной
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Портфолио-000000?style=flat-square&logo=react&logoColor=white)](Your_Portfolio_URL)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:superblender01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Портфолио-000000?style=flat-square&logo=react&logoColor=white)](nekrasov.vkweb.su)
 
 ---
 
@@ -48,10 +41,8 @@ JavaScript   █████████░░  45%
 PHP          ████████░░░  40%
 HTML/CSS     ███░░░░░░░░  15%
 ### 🎯 Цели на 2025
-- Расширить экспертизу в современных веб-фреймворках
-- Внести вклад в open source проекты
-- Делиться знаниями через технические статьи
-- Освоить новые инструменты разработки
+- Доизучить JAVA
+- Наладить работу веб-соккетов
 
 ---
 *"Код как юмор. Если его приходится объяснять — это плохой код." – Кори Хаус*
