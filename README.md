@@ -28,9 +28,9 @@
 
 ### 🌐 Связаться со мной
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:superblender01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Портфолио-000000?style=flat-square&logo=react&logoColor=white)](nekrasov.vkweb.su)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](t.me/mefzt)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nekrasovv.web@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Портфолио-000000?style=flat-square&logo=react&logoColor=white)](t.me/mefzt)
 
 ---
 
