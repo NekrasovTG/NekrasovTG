@@ -16,8 +16,6 @@
 
 #### What I Do Best:
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="20"/> **Creating breathtaking UI/UX designs**
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"/> **Building lightning-fast web applications**
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20"/> **Delivering pixel-perfect solutions**
@@ -73,15 +71,14 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NekrasovTG&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NekrasovTG&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekrasovTG&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekrasovTG&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekrasovTG&theme=tokyo-night&hide_border=true&area=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekrasovTG&theme=tokyo-night&hide_border=true&area=true" width="60%">
 </div>
 
 ---
@@ -103,10 +100,10 @@
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Latest Activity
 
 ```text
-⚡ Designing the future, one pixel at a time
-🎯 Committed to excellence in every project
-💻 Open to exciting collaboration opportunities
-🌟 Always ready to tackle new challenges
+ Designing the future, one pixel at a time
+ Committed to excellence in every project
+ Open to exciting collaboration opportunities
+ Always ready to tackle new challenges
 ```
 
 ---
