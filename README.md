@@ -10,7 +10,7 @@
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> About Me
 
-**Elite Web Designer & Developer** with **3+ years** of professional experience
+**Elite Web Designer & Developer** with **3+ years** of professional experience **8+ years at all**
 
 🚀 Transforming ideas into stunning digital experiences that users love
 
